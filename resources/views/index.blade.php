@@ -7,7 +7,7 @@
         </div>
         <div class="mt-5">
             <a href="/docs" class="inline-block py-3 px-8 text-lg text-white rounded-lg bg-[#00bc51]">Documentation</a>
-            <a href="/" class="inline-block py-2.5 px-8 text-lg text-[#00bc51] rounded-lg border-2 border-[#00bc51] ml-4">Github</a>
+            <a href="/https://github.com/youssef-erremili/Raja-club-Rest-api" class="inline-block py-2.5 px-8 text-lg text-[#00bc51] rounded-lg border-2 border-[#00bc51] ml-4">Github</a>
         </div>
     </main>
 </x-layout>

@@ -22,7 +22,7 @@
             <ul class="flex items-center">
                 <li><a href="/" class="mx-2 capitalize text-lg text-gray-800">home</a></li>
                 <li><a href="/docs" class="mx-2 capitalize text-lg text-gray-800">docs</a></li>
-                <li><a href="/" class="mx-2 capitalize text-lg text-gray-800">github</a></li>
+                <li><a href="https://github.com/youssef-erremili/Raja-club-Rest-api" class="mx-2 capitalize text-lg text-gray-800">github</a></li>
                 @auth
                 <li class="inline-block text-sm capitalize bg-[#00bc51] px-2.5 py-1.5 rounded-md text-white">
                     {{ Auth::user()->name }}
@@ -36,7 +36,7 @@
     </header>
     {{ $slot }}
     <footer class="h-auto text-center mt-28 py-10">
-        <p class="font-medium text-gray-800 text-sm">made with ❤ by <a href="/" class="underline">Youssef Erremili</a></p>
+        <p class="font-medium text-gray-800 text-sm">made with ❤ by <a href="/ap" class="underline">Youssef Erremili</a></p>
     </footer>
 </body>
 </html>
